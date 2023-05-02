@@ -1,0 +1,14 @@
+form {
+    display: flex;
+    flex-direction: column; 
+    margin-left: 7px;  
+    margin-right: 7px; 
+}
+
+mat-card-title {
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+}

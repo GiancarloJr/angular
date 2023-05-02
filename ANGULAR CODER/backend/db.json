@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "JuninPressao",
+      "price": "100",
+      "id": 5
+    },
+    {
+      "name": "Teste",
+      "price": "10000.50",
+      "id": 6
+    },
+    {
+      "name": "Teste",
+      "price": "11",
+      "id": 7
+    },
+    {
+      "name": "teste",
+      "price": "1234",
+      "id": 9
+    }
+  ]
+}
